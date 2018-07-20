@@ -1,0 +1,61 @@
+{
+  "title": "Weigth",
+  "questions": [
+    {
+      "title": "В 1 кг сколько грамм?",
+      "answers": [
+        {
+          "title": "10"
+        },
+        {
+          "title": "100"
+        },
+        {
+          "title": "1 000",
+          "correct": true
+        },
+        {
+          "title": "10 000"
+        }
+      ]
+    },
+
+    {
+      "title": "В 1 грамме сколько кг?",
+      "answers": [
+        {
+          "title": "1"
+        },
+        {
+          "title": "0.01"
+        },
+        {
+          "title": "0.001",
+          "correct": true
+        },
+        {
+          "title": "0.0001"
+        }
+      ]
+    },
+
+    {
+      "title": "Сколько кг в 1 тонне",
+      "answers": [
+        {
+          "title": "100"
+        },
+        {
+          "title": "200"
+        },
+        {
+          "title": "300"
+        },
+        {
+          "title": "1 000",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
